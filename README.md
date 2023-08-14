@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ElliottBradley32
 - 👀 I’m interested in ... learning new ways to write coded. ive been away too long 
-- 🌱 I’m currently learning ... certifcations is server sequrity and power platform 
+- 🌱 I’m currently learning ... certifcations in server security and power platform 
 - 💞️ I’m looking to collaborate on ... all things new 
 - 📫 How to reach me ... elliottbradley32@gmail.com
 
